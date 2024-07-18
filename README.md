@@ -1,1 +1,1 @@
-# WikipediaSearchApp
+# WikipediaSearchWebApp
